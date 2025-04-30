@@ -73,19 +73,7 @@ Edit
 http://localhost/Internet-Programming-622/
 This will load the homepage of the WhatsApp Clone project.
 
-📁 Project Structure Overview
-bash
-Copy
-Edit
-Internet-Programming-622/
-│
-├── whatsapp_clone.sql           # Database export file
-├── index.php                    # Main entry file
-├── style.css                    # Stylesheet
-├── script.js                    # JavaScript functionality
-├── /images                      # Image assets
-├── /css, /js, etc.              # Optional other folders
-└── README.md                    # This file
+
 👤 Author
 Jude Olisa Radebe: student number - 402308992
 
